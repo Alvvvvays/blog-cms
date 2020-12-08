@@ -6,3 +6,4 @@ app.get('/', (req, res) => res.json({ status: 'ok' }));
 app.listen(PORT, () => console.log(`Server running on port ${PORT}`));
 // TODO: refactor this section (#1)
 // Fix: edge case handling
+// Added: new utility function
