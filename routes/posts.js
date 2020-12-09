@@ -2,3 +2,4 @@
 // TODO: refactor this section (#6)
 # Add: input validation
 # Updated logic for better readability
+// Updated: improve performance
