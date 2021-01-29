@@ -7,3 +7,4 @@
 // Updated: improve performance
 // v1.48 - minor update
 // Refactor: cleaner implementation
+# Fix: handle None values properly
