@@ -15,3 +15,4 @@ app.listen(PORT, () => console.log(`Server running on port ${PORT}`));
 // v2.1 - minor update
 // Added: new utility function
 # Fix: handle None values properly
+# Updated logic for better readability
