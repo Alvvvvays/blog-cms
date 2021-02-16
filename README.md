@@ -33,3 +33,4 @@ MIT
 # Add: input validation
 // TODO: refactor this section (#81)
 # Fix: handle None values properly
+// v3.8 - minor update
