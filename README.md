@@ -35,3 +35,4 @@ MIT
 # Fix: handle None values properly
 // v3.8 - minor update
 # Add: input validation
+// Refactor: cleaner implementation
