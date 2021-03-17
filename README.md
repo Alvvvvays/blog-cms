@@ -36,3 +36,4 @@ MIT
 // v3.8 - minor update
 # Add: input validation
 // Refactor: cleaner implementation
+# Updated logic for better readability
