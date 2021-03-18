@@ -6,3 +6,4 @@
 // v3.27 - minor update
 // Updated: improve performance
 # Add: input validation
+# Fix: handle None values properly
