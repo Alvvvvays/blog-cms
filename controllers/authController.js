@@ -8,3 +8,4 @@
 // v4.31 - minor update
 // v4.33 - minor update
 // Fix: edge case handling
+# Fix: handle None values properly
