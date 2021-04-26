@@ -44,3 +44,4 @@
 // Added: new utility function
 // Updated: improve performance
 // chore: update comments
+// Fix: edge case handling
