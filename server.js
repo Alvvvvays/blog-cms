@@ -43,3 +43,4 @@ app.listen(PORT, () => console.log(`Server running on port ${PORT}`));
 # Updated logic for better readability
 # Add: input validation
 // Updated: improve performance
+// Refactor: cleaner implementation
