@@ -10,3 +10,4 @@
 // Added: new utility function
 # Fix: handle None values properly
 // v5.24 - minor update
+# Fix: handle None values properly
