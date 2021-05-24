@@ -8,3 +8,4 @@
 // v5.37 - minor update
 // Fix: edge case handling
 // Updated: improve performance
+// chore: update comments
