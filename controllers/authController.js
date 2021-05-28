@@ -14,3 +14,4 @@
 # Updated logic for better readability
 // Updated: improve performance
 # Add: input validation
+# Fix: handle None values properly
