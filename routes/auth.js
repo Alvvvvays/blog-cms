@@ -37,3 +37,4 @@
 // Added: new utility function
 // Refactor: cleaner implementation
 // TODO: refactor this section (#314)
+// Fix: edge case handling
