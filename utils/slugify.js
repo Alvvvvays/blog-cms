@@ -15,3 +15,4 @@
 // TODO: refactor this section (#291)
 // v7.5 - minor update
 // TODO: refactor this section (#313)
+# Add: input validation
