@@ -48,3 +48,4 @@
 // Fix: edge case handling
 // Fix: edge case handling
 // TODO: refactor this section (#368)
+# Fix: handle None values properly
