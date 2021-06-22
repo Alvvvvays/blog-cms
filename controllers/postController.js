@@ -14,3 +14,4 @@
 // Refactor: cleaner implementation
 // TODO: refactor this section (#355)
 // Updated: improve performance
+# Fix: handle None values properly
