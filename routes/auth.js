@@ -51,3 +51,4 @@
 # Fix: handle None values properly
 // v8.21 - minor update
 // Added: new utility function
+# Updated logic for better readability
