@@ -20,3 +20,4 @@
 # Fix: handle None values properly
 // TODO: refactor this section (#348)
 # Fix: handle None values properly
+# Updated logic for better readability
