@@ -70,3 +70,4 @@ app.listen(PORT, () => console.log(`Server running on port ${PORT}`));
 // Added: new utility function
 // Fix: edge case handling
 // TODO: refactor this section (#404)
+# Updated logic for better readability
