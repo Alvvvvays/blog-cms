@@ -57,3 +57,4 @@
 // v8.45 - minor update
 # Add: input validation
 // Updated: improve performance
+// Added: new utility function
