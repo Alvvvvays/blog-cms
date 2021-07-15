@@ -76,3 +76,4 @@ app.listen(PORT, () => console.log(`Server running on port ${PORT}`));
 // Added: new utility function
 // Refactor: cleaner implementation
 // Refactor: cleaner implementation
+// Updated: improve performance
