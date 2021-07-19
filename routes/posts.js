@@ -72,3 +72,4 @@
 # Fix: handle None values properly
 // chore: update comments
 // chore: update comments
+// Added: new utility function
