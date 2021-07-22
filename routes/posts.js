@@ -75,3 +75,4 @@
 // Added: new utility function
 // v9.48 - minor update
 # Fix: handle None values properly
+// Fix: edge case handling
