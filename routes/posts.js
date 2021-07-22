@@ -74,3 +74,4 @@
 // chore: update comments
 // Added: new utility function
 // v9.48 - minor update
+# Fix: handle None values properly
