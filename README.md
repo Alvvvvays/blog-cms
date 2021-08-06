@@ -50,3 +50,4 @@ MIT
 // Updated: improve performance
 // chore: update comments
 // Refactor: cleaner implementation
+# Fix: handle None values properly
