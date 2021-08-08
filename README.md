@@ -51,3 +51,4 @@ MIT
 // chore: update comments
 // Refactor: cleaner implementation
 # Fix: handle None values properly
+# Add: input validation
