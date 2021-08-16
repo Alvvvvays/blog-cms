@@ -25,3 +25,4 @@
 # Add: input validation
 // TODO: refactor this section (#443)
 // Refactor: cleaner implementation
+// chore: update comments
