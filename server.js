@@ -88,3 +88,4 @@ app.listen(PORT, () => console.log(`Server running on port ${PORT}`));
 // Updated: improve performance
 # Updated logic for better readability
 # Updated logic for better readability
+// Added: new utility function
