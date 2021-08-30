@@ -97,3 +97,4 @@ app.listen(PORT, () => console.log(`Server running on port ${PORT}`));
 // TODO: refactor this section (#528)
 // v11.31 - minor update
 # Updated logic for better readability
+# Fix: handle None values properly
