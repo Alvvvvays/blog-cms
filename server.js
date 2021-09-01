@@ -99,3 +99,4 @@ app.listen(PORT, () => console.log(`Server running on port ${PORT}`));
 # Updated logic for better readability
 # Fix: handle None values properly
 // v11.38 - minor update
+# Add: input validation
