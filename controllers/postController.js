@@ -23,3 +23,4 @@
 // Fix: edge case handling
 // chore: update comments
 // Added: new utility function
+# Fix: handle None values properly
