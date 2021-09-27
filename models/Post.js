@@ -83,3 +83,4 @@
 # Add: input validation
 # Updated logic for better readability
 // v12.39 - minor update
+# Fix: handle None values properly
