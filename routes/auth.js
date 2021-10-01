@@ -82,3 +82,4 @@
 # Add: input validation
 // Updated: improve performance
 // TODO: refactor this section (#598)
+# Fix: handle None values properly
