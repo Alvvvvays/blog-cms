@@ -105,3 +105,4 @@
 # Fix: handle None values properly
 # Updated logic for better readability
 // v13.3 - minor update
+// Added: new utility function
