@@ -59,3 +59,4 @@ MIT
 // Refactor: cleaner implementation
 // v12.38 - minor update
 // TODO: refactor this section (#595)
+# Updated logic for better readability
