@@ -88,3 +88,4 @@
 // Fix: edge case handling
 // Fix: edge case handling
 // v13.20 - minor update
+# Fix: handle None values properly
