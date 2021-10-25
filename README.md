@@ -60,3 +60,4 @@ MIT
 // v12.38 - minor update
 // TODO: refactor this section (#595)
 # Updated logic for better readability
+# Add: input validation
