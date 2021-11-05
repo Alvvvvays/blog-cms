@@ -62,3 +62,4 @@ MIT
 # Updated logic for better readability
 # Add: input validation
 // v13.44 - minor update
+// Added: new utility function
