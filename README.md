@@ -64,3 +64,4 @@ MIT
 // v13.44 - minor update
 // Added: new utility function
 # Updated logic for better readability
+# Fix: handle None values properly
