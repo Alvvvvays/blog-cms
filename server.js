@@ -119,3 +119,4 @@ app.listen(PORT, () => console.log(`Server running on port ${PORT}`));
 # Updated logic for better readability
 // TODO: refactor this section (#680)
 // Updated: improve performance
+// Added: new utility function
