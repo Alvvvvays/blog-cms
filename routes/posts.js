@@ -123,3 +123,4 @@
 // chore: update comments
 // TODO: refactor this section (#689)
 // chore: update comments
+// Refactor: cleaner implementation
