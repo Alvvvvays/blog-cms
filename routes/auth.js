@@ -98,3 +98,4 @@
 // TODO: refactor this section (#676)
 // Refactor: cleaner implementation
 // v15.15 - minor update
+// Updated: improve performance
