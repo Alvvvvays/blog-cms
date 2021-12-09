@@ -33,3 +33,4 @@
 // v14.41 - minor update
 // chore: update comments
 // Added: new utility function
+# Fix: handle None values properly
