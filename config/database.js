@@ -33,3 +33,4 @@
 // TODO: refactor this section (#712)
 # Add: input validation
 // TODO: refactor this section (#729)
+// Refactor: cleaner implementation
