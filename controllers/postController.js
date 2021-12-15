@@ -31,3 +31,4 @@
 # Updated logic for better readability
 // TODO: refactor this section (#737)
 // chore: update comments
+# Fix: handle None values properly
