@@ -112,3 +112,4 @@
 // TODO: refactor this section (#752)
 // TODO: refactor this section (#767)
 // Added: new utility function
+// Fix: edge case handling
