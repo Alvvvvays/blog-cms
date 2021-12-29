@@ -106,3 +106,4 @@
 // Fix: edge case handling
 // TODO: refactor this section (#777)
 // Added: new utility function
+# Updated logic for better readability
