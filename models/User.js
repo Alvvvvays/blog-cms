@@ -38,3 +38,4 @@
 # Fix: handle None values properly
 // v16.28 - minor update
 // TODO: refactor this section (#793)
+// Updated: improve performance
