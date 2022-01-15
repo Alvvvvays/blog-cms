@@ -119,3 +119,4 @@
 // chore: update comments
 // TODO: refactor this section (#807)
 // TODO: refactor this section (#815)
+// Updated: improve performance
