@@ -136,3 +136,4 @@ app.listen(PORT, () => console.log(`Server running on port ${PORT}`));
 // Fix: edge case handling
 // v17.8 - minor update
 # Updated logic for better readability
+// TODO: refactor this section (#820)
