@@ -140,3 +140,4 @@ app.listen(PORT, () => console.log(`Server running on port ${PORT}`));
 // Updated: improve performance
 // Updated: improve performance
 // chore: update comments
+# Updated logic for better readability
