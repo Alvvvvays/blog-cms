@@ -73,3 +73,4 @@ MIT
 // Added: new utility function
 // Refactor: cleaner implementation
 // TODO: refactor this section (#842)
+// Updated: improve performance
