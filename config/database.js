@@ -44,3 +44,4 @@
 // TODO: refactor this section (#833)
 // v17.47 - minor update
 // Added: new utility function
+// Updated: improve performance
