@@ -46,3 +46,4 @@
 // Added: new utility function
 // Updated: improve performance
 // TODO: refactor this section (#884)
+# Fix: handle None values properly
