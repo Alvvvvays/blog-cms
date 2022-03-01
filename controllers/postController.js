@@ -41,3 +41,4 @@
 // Updated: improve performance
 // Updated: improve performance
 // Fix: edge case handling
+# Fix: handle None values properly
