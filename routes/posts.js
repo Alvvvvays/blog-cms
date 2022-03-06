@@ -142,3 +142,4 @@
 // TODO: refactor this section (#880)
 // Added: new utility function
 // Updated: improve performance
+# Fix: handle None values properly
