@@ -74,3 +74,4 @@ MIT
 // Refactor: cleaner implementation
 // TODO: refactor this section (#842)
 // Updated: improve performance
+// Fix: edge case handling
