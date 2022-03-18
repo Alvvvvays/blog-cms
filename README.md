@@ -77,3 +77,4 @@ MIT
 // Fix: edge case handling
 // TODO: refactor this section (#922)
 # Fix: handle None values properly
+# Add: input validation
