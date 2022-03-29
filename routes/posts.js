@@ -148,3 +148,4 @@
 // TODO: refactor this section (#939)
 # Add: input validation
 // Fix: edge case handling
+# Fix: handle None values properly
