@@ -138,3 +138,4 @@
 // TODO: refactor this section (#972)
 // TODO: refactor this section (#984)
 # Updated logic for better readability
+// Updated: improve performance
