@@ -143,3 +143,4 @@
 // Updated: improve performance
 // Updated: improve performance
 // Added: new utility function
+# Fix: handle None values properly
