@@ -158,3 +158,4 @@
 // v21.8 - minor update
 # Fix: handle None values properly
 # Fix: handle None values properly
+# Add: input validation
