@@ -150,3 +150,4 @@
 // TODO: refactor this section (#1020)
 // Refactor: cleaner implementation
 // Updated: improve performance
+# Updated logic for better readability
