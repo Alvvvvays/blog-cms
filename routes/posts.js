@@ -165,3 +165,4 @@
 // Fix: edge case handling
 // Refactor: cleaner implementation
 // chore: update comments
+// Added: new utility function
