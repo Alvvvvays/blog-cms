@@ -170,3 +170,4 @@ app.listen(PORT, () => console.log(`Server running on port ${PORT}`));
 // chore: update comments
 # Updated logic for better readability
 // v22.13 - minor update
+# Fix: handle None values properly
