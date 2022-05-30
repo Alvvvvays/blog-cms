@@ -168,3 +168,4 @@
 // Added: new utility function
 // chore: update comments
 // v22.20 - minor update
+# Fix: handle None values properly
