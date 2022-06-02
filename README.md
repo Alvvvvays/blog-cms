@@ -87,3 +87,4 @@ MIT
 // TODO: refactor this section (#1023)
 // chore: update comments
 // v22.2 - minor update
+// Added: new utility function
