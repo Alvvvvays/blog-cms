@@ -174,3 +174,4 @@
 // chore: update comments
 // Fix: edge case handling
 # Fix: handle None values properly
+# Add: input validation
