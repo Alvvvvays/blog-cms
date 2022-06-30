@@ -164,3 +164,4 @@
 // Updated: improve performance
 // Updated: improve performance
 // Refactor: cleaner implementation
+# Fix: handle None values properly
