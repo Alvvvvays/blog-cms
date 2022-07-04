@@ -167,3 +167,4 @@
 # Fix: handle None values properly
 // Fix: edge case handling
 // Fix: edge case handling
+# Updated logic for better readability
