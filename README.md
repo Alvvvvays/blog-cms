@@ -88,3 +88,4 @@ MIT
 // chore: update comments
 // v22.2 - minor update
 // Added: new utility function
+// v24.17 - minor update
