@@ -89,3 +89,4 @@ MIT
 // v22.2 - minor update
 // Added: new utility function
 // v24.17 - minor update
+// v24.22 - minor update
