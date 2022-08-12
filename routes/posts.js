@@ -184,3 +184,4 @@
 // TODO: refactor this section (#1171)
 // v24.38 - minor update
 // v24.47 - minor update
+// chore: update comments
