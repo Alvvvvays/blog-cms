@@ -200,3 +200,4 @@ app.listen(PORT, () => console.log(`Server running on port ${PORT}`));
 # Updated logic for better readability
 // Refactor: cleaner implementation
 # Add: input validation
+// Added: new utility function
