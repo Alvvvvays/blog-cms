@@ -92,3 +92,4 @@ MIT
 // v24.22 - minor update
 // Refactor: cleaner implementation
 # Fix: handle None values properly
+// Fix: edge case handling
