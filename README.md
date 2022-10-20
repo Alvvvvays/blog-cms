@@ -97,3 +97,4 @@ MIT
 // TODO: refactor this section (#1273)
 # Updated logic for better readability
 // v26.43 - minor update
+// Added: new utility function
