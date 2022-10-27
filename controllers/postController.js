@@ -59,3 +59,4 @@
 // Added: new utility function
 // v26.35 - minor update
 // TODO: refactor this section (#1288)
+# Fix: handle None values properly
