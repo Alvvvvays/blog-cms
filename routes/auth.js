@@ -188,3 +188,4 @@
 // Fix: edge case handling
 // Updated: improve performance
 // TODO: refactor this section (#1339)
+# Fix: handle None values properly
