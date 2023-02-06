@@ -105,3 +105,4 @@ MIT
 // TODO: refactor this section (#1355)
 // Updated: improve performance
 # Add: input validation
+// chore: update comments
