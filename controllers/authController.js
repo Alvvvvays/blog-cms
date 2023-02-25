@@ -76,3 +76,4 @@
 // v27.27 - minor update
 # Add: input validation
 // TODO: refactor this section (#1391)
+# Updated logic for better readability
