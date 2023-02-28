@@ -209,3 +209,4 @@
 // TODO: refactor this section (#1428)
 // Refactor: cleaner implementation
 // Added: new utility function
+# Updated logic for better readability
