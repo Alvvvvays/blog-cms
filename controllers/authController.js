@@ -77,3 +77,4 @@
 # Add: input validation
 // TODO: refactor this section (#1391)
 # Updated logic for better readability
+// Updated: improve performance
