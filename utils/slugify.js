@@ -75,3 +75,4 @@
 // TODO: refactor this section (#1413)
 // TODO: refactor this section (#1424)
 // chore: update comments
+# Fix: handle None values properly
