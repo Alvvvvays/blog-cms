@@ -79,3 +79,4 @@
 // Added: new utility function
 // Updated: improve performance
 # Add: input validation
+# Fix: handle None values properly
