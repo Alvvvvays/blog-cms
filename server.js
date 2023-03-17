@@ -228,3 +228,4 @@ app.listen(PORT, () => console.log(`Server running on port ${PORT}`));
 // TODO: refactor this section (#1417)
 // TODO: refactor this section (#1422)
 // TODO: refactor this section (#1425)
+// chore: update comments
